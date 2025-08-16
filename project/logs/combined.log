@@ -1,0 +1,24 @@
+{"level":"info","message":"MCP DevOps Server running on port 3000","timestamp":"2025-08-16T14:45:55.708Z"}
+{"level":"info","message":"Available endpoints:","timestamp":"2025-08-16T14:45:55.711Z"}
+{"level":"info","message":"  POST /agent/code-review","timestamp":"2025-08-16T14:45:55.712Z"}
+{"level":"info","message":"  POST /agent/test-writer","timestamp":"2025-08-16T14:45:55.713Z"}
+{"level":"info","message":"  POST /agent/build-predictor","timestamp":"2025-08-16T14:45:55.713Z"}
+{"level":"info","message":"  POST /agent/docker-handler","timestamp":"2025-08-16T14:45:55.714Z"}
+{"level":"info","message":"  POST /agent/deploy","timestamp":"2025-08-16T14:45:55.714Z"}
+{"level":"info","message":"  POST /agent/monitor","timestamp":"2025-08-16T14:45:55.715Z"}
+{"level":"info","message":"  GET  /health","timestamp":"2025-08-16T14:45:55.715Z"}
+{"ip":"::ffff:20.218.174.14","level":"info","message":"POST /agent/code-review","timestamp":"2025-08-16T14:46:23.598Z","userAgent":"axios/1.8.3"}
+{"ip":"::ffff:20.218.174.14","level":"info","message":"POST /agent/code-review","timestamp":"2025-08-16T14:50:27.150Z","userAgent":"axios/1.8.3"}
+{"ip":"::ffff:20.218.174.14","level":"info","message":"POST /agent/code-review","timestamp":"2025-08-16T14:52:19.675Z","userAgent":"axios/1.8.3"}
+{"ip":"::ffff:77.110.113.96","level":"info","message":"GET /","timestamp":"2025-08-16T14:59:15.169Z","userAgent":"Mozilla/5.0 zgrab/0.x"}
+{"ip":"::ffff:20.218.174.14","level":"info","message":"POST /agent/code-review","timestamp":"2025-08-16T15:00:11.531Z","userAgent":"axios/1.8.3"}
+{"level":"info","message":"MCP DevOps Server running on port 3000","timestamp":"2025-08-16T15:02:50.424Z"}
+{"level":"info","message":"Available endpoints:","timestamp":"2025-08-16T15:02:50.426Z"}
+{"level":"info","message":"  POST /agent/code-review","timestamp":"2025-08-16T15:02:50.427Z"}
+{"level":"info","message":"  POST /agent/test-writer","timestamp":"2025-08-16T15:02:50.427Z"}
+{"level":"info","message":"  POST /agent/build-predictor","timestamp":"2025-08-16T15:02:50.428Z"}
+{"level":"info","message":"  POST /agent/docker-handler","timestamp":"2025-08-16T15:02:50.428Z"}
+{"level":"info","message":"  POST /agent/deploy","timestamp":"2025-08-16T15:02:50.429Z"}
+{"level":"info","message":"  POST /agent/monitor","timestamp":"2025-08-16T15:02:50.429Z"}
+{"level":"info","message":"  GET  /health","timestamp":"2025-08-16T15:02:50.429Z"}
+{"ip":"::ffff:20.218.174.14","level":"info","message":"POST /agent/code-review","timestamp":"2025-08-16T15:03:11.078Z","userAgent":"axios/1.8.3"}
